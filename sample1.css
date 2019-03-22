@@ -1,0 +1,10 @@
+body {
+    font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック','Yu Gothic','メイリオ','ＭＳ Ｐゴシック','MS PGothic';
+    text-align: center;
+}
+
+p{
+    margin-left: auto;
+    margin-right: auto;
+    margin: 30px;
+}

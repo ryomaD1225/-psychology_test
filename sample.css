@@ -1,0 +1,19 @@
+body {
+    font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック','Yu Gothic','メイリオ','ＭＳ Ｐゴシック','MS PGothic'  
+    }
+    
+form {
+    text-align: center;
+    padding: 5em 1em;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 3px #000000;
+}
+
+input radio{
+    margin-right:10px;
+}
+
+h1{
+    padding: 10px;
+}
